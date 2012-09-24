@@ -9,8 +9,8 @@ BitWizard also provides a tool for accessing the SPI expansion Board on the rpi.
 The information is optained by the Logitech Media Server CLI [4]
 
 
-[1] http://wiki.slimdevices.com/index.php/SqueezeSlave
-[2] http://www.bitwizard.nl/catalog/product_info.php?products_id=94
-[3] https://github.com/rewolff/bw_rpi_tools.git
-[4] http://wiki.slimdevices.com/index.php/Logitech_Media_Server_CLI
+[1] http://wiki.slimdevices.com/index.php/SqueezeSlave  
+[2] http://www.bitwizard.nl/catalog/product_info.php?products_id=94  
+[3] https://github.com/rewolff/bw_rpi_tools.git  
+[4] http://wiki.slimdevices.com/index.php/Logitech_Media_Server_CLI  
 

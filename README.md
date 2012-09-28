@@ -12,6 +12,11 @@ The information is optained by the Logitech Media Server CLI [4]. There has been
 * appropriate Hardware (SPI Display, Raspberry PI)
 * bw_rpi_tools [3]
 
+### TODO ###
+* ticker for content length > 20 characters (the LCD display only has 20 columns)
+* running squeezedisplay as a service for continous display updating
+* german umlauts are not displayed
+
 ### Links ###
 
 [1] http://wiki.slimdevices.com/index.php/SqueezeSlave  
